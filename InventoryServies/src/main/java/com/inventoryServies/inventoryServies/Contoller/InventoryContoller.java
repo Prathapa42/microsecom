@@ -22,9 +22,9 @@ import java.util.List;
 public class InventoryContoller {
 
        @Autowired
-       private InventoryServiesImpl inventoryService;
-
-
+       private InventoryServiesImpl inventoryServic
+       private String prathap;
+       private;
 
       @Operation(description = "set inventoryitem")
 
