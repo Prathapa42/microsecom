@@ -22,10 +22,16 @@ import java.util.List;
 public class InventoryContoller {
 
        @Autowired
+
+       private InventoryServiesImpl inventoryServic
+       private String prathap;
+
+
+
        private InventoryServiesImpl inventoryService;
-       
-       
+
       @Operation(description = "set inventoryitem")
+
        @PostMapping("/set/inventoryitem")
       public ResponseEntity<?> setInventory(@RequestBody InventoryDto InventoryDto)
       {

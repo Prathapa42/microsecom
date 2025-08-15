@@ -2,11 +2,14 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/APIgateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APIgateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/EdurekDisc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Eruek/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eruek/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/InventoryServies/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/InventoryServies/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NotificationServies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NotificationServies/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductServies/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductServies/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orderservies/src/main/java" charset="UTF-8" />
