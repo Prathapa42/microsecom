@@ -23,9 +23,11 @@ public class InventoryContoller {
 
        @Autowired
        private InventoryServiesImpl inventoryService;
-       private this prathap;
+
+
 
       @Operation(description = "set inventoryitem")
+
        @PostMapping("/set/inventoryitem")
       public ResponseEntity<?> setInventory(@RequestBody InventoryDto InventoryDto)
       {
